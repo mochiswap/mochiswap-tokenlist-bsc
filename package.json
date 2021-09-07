@@ -1,23 +1,22 @@
 {
-  "name": "@mochiswap/default-token-list",
-  "version": "1.5.8",
-  "description": "◦ The Hashparty curated token list",
+  "name": "@mochiswap/bsc-token-list",
+  "version": "1.6.4",
+  "description": "◦ The Mochiswap curated token list - BSC Only",
   "main": "build/hashparty-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/hashparty-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/bsc-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/hashparty-default.tokenlist.json"
+    "build/bsc-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mochiswap/hashparty-token-list.git"
+    "url": "git+https://github.com/mochiswap/bsc-default-tokenlist.git"
   },
   "keywords": [
     "mochiswap",
-    "hashparty",
     "default",
     "token",
     "list"
@@ -25,7 +24,7 @@
   "author": "Moshi Moshi it's Hashparty",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/mochiswap/hashparty-default-token-list/issues"
+    "url": "https://github.com/mochiswap/bsc-default-token-list/issues"
   },
   "homepage": "https://mochiswap.io",
   "devDependencies": {

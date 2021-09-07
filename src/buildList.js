@@ -5,6 +5,7 @@ const { version } = require("../package.json");
 // const goerli = require("./tokens/goerli.json");
 // const kovan = require("./tokens/kovan.json");
 const harmony_mainnet = require("./tokens/harmony-mainnet.json");
+const bsc_mainnet = require("./tokens/bsc-mainnet.json");
 // const harmony_testnet = require("./tokens/harmony-testnet.json");
 
 module.exports = function buildList() {
@@ -20,7 +21,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/hashparty-logo-sm.png",
     keywords: ["hashparty", "mochiswap", "default"],
-    tokens: [...harmony_mainnet]
+    tokens: [...bsc_mainnet] //  
     .sort((t1, t2) => {
       if (t1.chainId === t2.chainId) {
         return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
