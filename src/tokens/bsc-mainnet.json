@@ -1,8 +1,16 @@
 [
   {
-    "name": "MochiSwap",
+    "name": "MochiSwap - OLD",
     "address": "0x055dab90880613a556a5ae2903b2682f8a5b8d27",
     "symbol": "MOCHI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://s3-us-west-1.amazonaws.com/pool.mochiswap.io/images/farms/3232.png"
+  },
+  {
+    "name": "MochiSwap - NEW",
+    "address": "0x2d0E75b683E8b56243B429B24f2B08bCc1fFd8Da",
+    "symbol": "bMOCHI",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://s3-us-west-1.amazonaws.com/pool.mochiswap.io/images/farms/3232.png"
