@@ -24,6 +24,14 @@
   "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
   },
   {
+    "name": "BOBA",
+    "address": "0x603D40e00464daAE92BfC436657592055724b622",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://s3-us-west-1.amazonaws.com/images/tokens/0x603D40e00464daAE92BfC436657592055724b622.svg"
+  },
+  {
     "name": "Tether USD",
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "symbol": "USDT",
@@ -38,30 +46,6 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
-  },
-  {
-    "name": "ezDeFi",
-    "address": "0x1c213179C2c08906fB759878860652a61727Ed14",
-    "symbol": "ZD",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x1c213179C2c08906fB759878860652a61727Ed14.png"
-  },
-  {
-    "name": "BSCX",
-    "address": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587",
-    "symbol": "BSCX",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x5ac52ee5b2a633895292ff6d8a89bb9190451587.png"
-  },
-  {
-    "name": "zSeed",
-    "address": "0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5",
-    "symbol": "zSEED",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5.png"
   },
   {
     "name": "Cake",
@@ -112,29 +96,12 @@
     "logoURI": "https://bscscan.com/token/images/dogecoin_32.png"
   },
   {
-    "name": "APESOX Token",
+    "name": "APESOX",
     "address": "0x9e18336e7fe1824023376b2d73e15f3cf49b4b1a",
     "symbol": "APESOX",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/mochi-apesox.png"
-  },
-  
-  {
-    "name": "Litecoin Token",
-    "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-    "symbol": "LTC",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
-  },
-  {
-    "name": "XRP Token",
-    "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-    "symbol": "XRP",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
   },
   {
     "name": "YFII.finance Token",

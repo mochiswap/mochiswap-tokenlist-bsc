@@ -4,7 +4,7 @@ const { version } = require("../package.json");
 // const rinkeby = require("./tokens/rinkeby.json");
 // const goerli = require("./tokens/goerli.json");
 // const kovan = require("./tokens/kovan.json");
-const harmony_mainnet = require("./tokens/harmony-mainnet.json");
+// const harmony_mainnet = require("./tokens/harmony-mainnet.json");
 const bsc_mainnet = require("./tokens/bsc-mainnet.json");
 // const harmony_testnet = require("./tokens/harmony-testnet.json");
 

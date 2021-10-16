@@ -1,6 +1,6 @@
 {
   "name": "@mochiswap/bsc-default-tokenlist",
-  "version": "1.6.4",
+  "version": "1.7.0",
   "description": "◦ The Mochiswap curated token list - BSC Only",
   "main": "build/bsc-default.tokenlist.json",
   "scripts": {
