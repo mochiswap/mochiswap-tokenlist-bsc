@@ -110,5 +110,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
+  },
+  {
+    "name": "Sun",
+    "address": "0xfa1184b73a24c5426103766579a2ca9dd4e465f2",
+    "symbol": "SUN",
+    "decimals": 20,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/harmony-one/HRC20-logos/df1e1d50f64201084a8149dfeecb6d63ffd877cf/HRC20/one1lggcfde6ynz5ycgrwejhngk2nh2wge0j2egk6j.png"
   }
 ]
