@@ -110,5 +110,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Bscex/bscex-token-list/master/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
+  },
+  {
+    "name": "Cheff Token",
+    "address": "0x367296e9557a3fd769b1f08675d79be371b9eedd",
+    "symbol": "CHEFF",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://www.cheffpool.com/images/cheff_logo.png"
   }
 ]
